@@ -31,7 +31,7 @@ This project analyzes UFC fight outcomes from 2010 to 2024, focusing on patterns
 
 ## 📄 Project Summary
 
-📥 [Download Full Project Summary (PDF)](2-tableau_storyboard/UFC_Fight_Analysis_Project_Summary.pdf)
+📥 [Download UFC Project Summary (PDF)](UFC%20Analysis/01%20Project%20Managment/UFC_Fight_Analysis_Project_Summary.pdf)
 
 ---
 
