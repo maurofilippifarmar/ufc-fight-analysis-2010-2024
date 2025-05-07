@@ -46,7 +46,7 @@ This project analyzes UFC fight outcomes from 2010 to 2024, focusing on patterns
 
 **Mauro Filippi**  
 Data Analyst — Python | Tableau  
-📧 your.email@example.com  
+📧 mauro.filippifarmar@gmail.com
 🔗 [GitHub Profile](https://github.com/maurofilippifarmar)  
 
 ---
